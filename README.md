@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles repo
+My dotfiles repository.
